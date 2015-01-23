@@ -1,0 +1,11 @@
+C:\Users\Jonathan\documents\visual studio 2013\Projects\OysterGame\OysterGame\OysterGame\bin\x86\Debug\Content\Level 1 Boat Resized.xnb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\OysterGame\OysterGame\OysterGame\bin\x86\Debug\OysterGame.exe
+C:\Users\Jonathan\documents\visual studio 2013\Projects\OysterGame\OysterGame\OysterGame\bin\x86\Debug\OysterGame.pdb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\OysterGame\OysterGame\OysterGame\obj\x86\Debug\OysterGame.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\documents\visual studio 2013\Projects\OysterGame\OysterGame\OysterGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jonathan\documents\visual studio 2013\Projects\OysterGame\OysterGame\OysterGame\obj\x86\Debug\OysterGame.exe
+C:\Users\Jonathan\documents\visual studio 2013\Projects\OysterGame\OysterGame\OysterGame\obj\x86\Debug\OysterGame.pdb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\OysterGame\OysterGame\OysterGame\bin\x86\Debug\Content\First Map.xnb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\OysterGame\OysterGame\OysterGame\bin\x86\Debug\Content\Menu.xnb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\OysterGame\OysterGame\OysterGame\bin\x86\Debug\Content\Level 1 Boat.xnb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\OysterGame\OysterGame\OysterGame\bin\x86\Debug\Content\BoatPath.xnb

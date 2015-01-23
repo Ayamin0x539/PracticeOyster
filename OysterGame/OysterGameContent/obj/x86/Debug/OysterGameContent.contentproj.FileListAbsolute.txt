@@ -1,0 +1,1 @@
+C:\Users\Jonathan\documents\visual studio 2013\Projects\OysterGame\OysterGame\OysterGameContent\obj\x86\Debug\OysterGameContent.contentprojResolveAssemblyReference.cache
